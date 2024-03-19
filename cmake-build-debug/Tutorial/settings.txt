@@ -1,0 +1,85 @@
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 41
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 0
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 0
+
+File Name: localThresh1.jpg
+Threshold Type: 0
+Morphology Type: 0
+Threshold Value: 0
+
+File Name: localThresh1.jpg
+Threshold Type: 0
+Morphology Type: 0
+Threshold Value: 0
+
+File Name: localThresh1.jpg
+Threshold Type: 0
+Morphology Type: 0
+Threshold Value: 0
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
+File Name: localThresh1.jpg
+Threshold Type: 1
+Morphology Type: 2
+Threshold Value: 38
+
