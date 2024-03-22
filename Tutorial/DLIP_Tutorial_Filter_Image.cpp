@@ -13,7 +13,7 @@ using namespace cv;
 int main()
 {
     cv::Mat src, dst;
-    src = cv::imread("../Image/circuitboard_impulseNoise.tif", 0);
+    src = cv::imread("../Image/Lab_GrayScale_TestImage.jpg", 0);
 
     int i = 3;
     Size kernelSize = cv::Size(i, i);

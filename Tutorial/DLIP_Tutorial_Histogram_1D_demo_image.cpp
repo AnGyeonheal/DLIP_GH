@@ -24,7 +24,6 @@ int main(int argc, char** argv)
         return EXIT_FAILURE;
     }
 
-
     //! [Establish the number of bins]
     int histSize = 256;
     //! [Establish the number of bins]

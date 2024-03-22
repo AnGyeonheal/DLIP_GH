@@ -42,10 +42,13 @@ void saveSettingsToFile();
 int main()
 {
     // Load an image
-    src = imread("../Image/localThresh1.jpg", IMREAD_COLOR);
+    src = imread("../Image/Lab_GrayScale_TestImage.jpg", IMREAD_COLOR);
 
     // Convert the image to Gray
     cvtColor(src, src_gray, COLOR_BGR2GRAY);
+
+    // filter
+
 
     // Create a window to display the results
     namedWindow(window_name, WINDOW_NORMAL);

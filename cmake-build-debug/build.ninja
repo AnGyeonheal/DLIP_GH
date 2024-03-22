@@ -143,41 +143,41 @@ build Tutorial\TUT1.exe: CXX_EXECUTABLE_LINKER__TUT1_Debug Tutorial\CMakeFiles\T
   TARGET_PDB = Tutorial\TUT1.pdb
 
 # =============================================================================
-# Object build statements for EXECUTABLE target TUT2
+# Object build statements for EXECUTABLE target Filter
 
 
 #############################################
-# Order-only phony target for TUT2
+# Order-only phony target for Filter
 
-build cmake_object_order_depends_target_TUT2: phony || Tutorial\CMakeFiles\TUT2.dir
+build cmake_object_order_depends_target_Filter: phony || Tutorial\CMakeFiles\Filter.dir
 
-build Tutorial\CMakeFiles\TUT2.dir\DLIP_Tutorial_Filter_Image.cpp.obj: CXX_COMPILER__TUT2_unscanned_Debug C$:\Users\hilla\source\repos\DLIP_GH\Tutorial\DLIP_Tutorial_Filter_Image.cpp || cmake_object_order_depends_target_TUT2
+build Tutorial\CMakeFiles\Filter.dir\DLIP_Tutorial_Filter_Image.cpp.obj: CXX_COMPILER__Filter_unscanned_Debug C$:\Users\hilla\source\repos\DLIP_GH\Tutorial\DLIP_Tutorial_Filter_Image.cpp || cmake_object_order_depends_target_Filter
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
   INCLUDES = -IC:\opencv-4.9.0\build\include\opencv2 -external:IC:\opencv-4.9.0\build\include -external:W0
-  OBJECT_DIR = Tutorial\CMakeFiles\TUT2.dir
-  OBJECT_FILE_DIR = Tutorial\CMakeFiles\TUT2.dir
-  TARGET_COMPILE_PDB = Tutorial\CMakeFiles\TUT2.dir\
-  TARGET_PDB = Tutorial\TUT2.pdb
+  OBJECT_DIR = Tutorial\CMakeFiles\Filter.dir
+  OBJECT_FILE_DIR = Tutorial\CMakeFiles\Filter.dir
+  TARGET_COMPILE_PDB = Tutorial\CMakeFiles\Filter.dir\
+  TARGET_PDB = Tutorial\Filter.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target TUT2
+# Link build statements for EXECUTABLE target Filter
 
 
 #############################################
-# Link the executable Tutorial\TUT2.exe
+# Link the executable Tutorial\Filter.exe
 
-build Tutorial\TUT2.exe: CXX_EXECUTABLE_LINKER__TUT2_Debug Tutorial\CMakeFiles\TUT2.dir\DLIP_Tutorial_Filter_Image.cpp.obj | C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib
+build Tutorial\Filter.exe: CXX_EXECUTABLE_LINKER__Filter_Debug Tutorial\CMakeFiles\Filter.dir\DLIP_Tutorial_Filter_Image.cpp.obj | C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib C$:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  C:\opencv-4.9.0\build\x64\vc16\lib\opencv_world490d.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
-  OBJECT_DIR = Tutorial\CMakeFiles\TUT2.dir
+  OBJECT_DIR = Tutorial\CMakeFiles\Filter.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Tutorial\CMakeFiles\TUT2.dir\
-  TARGET_FILE = Tutorial\TUT2.exe
-  TARGET_IMPLIB = Tutorial\TUT2.lib
-  TARGET_PDB = Tutorial\TUT2.pdb
+  TARGET_COMPILE_PDB = Tutorial\CMakeFiles\Filter.dir\
+  TARGET_FILE = Tutorial\Filter.exe
+  TARGET_IMPLIB = Tutorial\Filter.lib
+  TARGET_PDB = Tutorial\Filter.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target TUT3
@@ -494,6 +494,10 @@ build LAB\rebuild_cache: phony LAB\CMakeFiles\rebuild_cache.util
 
 build DLIP_GH: phony DLIP_GH.exe
 
+build Filter: phony Tutorial\Filter.exe
+
+build Filter.exe: phony Tutorial\Filter.exe
+
 build HIST_1D: phony Tutorial\HIST_1D.exe
 
 build HIST_1D.exe: phony Tutorial\HIST_1D.exe
@@ -517,10 +521,6 @@ build TRACKBAR.exe: phony Tutorial\TRACKBAR.exe
 build TUT1: phony Tutorial\TUT1.exe
 
 build TUT1.exe: phony Tutorial\TUT1.exe
-
-build TUT2: phony Tutorial\TUT2.exe
-
-build TUT2.exe: phony Tutorial\TUT2.exe
 
 build TUT3: phony Tutorial\TUT3.exe
 
@@ -552,7 +552,7 @@ build LAB\all: phony LAB\LAB1.exe
 #############################################
 # Folder: C:/Users/hilla/source/repos/DLIP_GH/cmake-build-debug/Tutorial
 
-build Tutorial\all: phony Tutorial\TUT1.exe Tutorial\TUT2.exe Tutorial\TUT3.exe Tutorial\TUT4.exe Tutorial\TRACKBAR.exe Tutorial\HIST_1D.exe Tutorial\HIST_webcam.exe Tutorial\HIST_Color.exe
+build Tutorial\all: phony Tutorial\TUT1.exe Tutorial\Filter.exe Tutorial\TUT3.exe Tutorial\TUT4.exe Tutorial\TRACKBAR.exe Tutorial\HIST_1D.exe Tutorial\HIST_webcam.exe Tutorial\HIST_Color.exe
 
 # =============================================================================
 # Built-in targets
