@@ -145,7 +145,7 @@ CMakeFiles\DLIP_GH.dir\clean:
 Tutorial\CMakeFiles\TUT1.dir\all:
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TUT1.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TUT1.dir\depend
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TUT1.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TUT1.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target TUT1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=16,17 "Built target TUT1"
 .PHONY : Tutorial\CMakeFiles\TUT1.dir\all
 
 # Build rule for subdir invocation for target.
@@ -197,7 +197,7 @@ Tutorial\CMakeFiles\Filter.dir\clean:
 Tutorial\CMakeFiles\TUT3.dir\all:
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TUT3.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TUT3.dir\depend
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TUT3.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TUT3.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target TUT3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=18,19 "Built target TUT3"
 .PHONY : Tutorial\CMakeFiles\TUT3.dir\all
 
 # Build rule for subdir invocation for target.
@@ -223,7 +223,7 @@ Tutorial\CMakeFiles\TUT3.dir\clean:
 Tutorial\CMakeFiles\TUT4.dir\all:
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TUT4.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TUT4.dir\depend
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TUT4.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TUT4.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target TUT4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=20,21 "Built target TUT4"
 .PHONY : Tutorial\CMakeFiles\TUT4.dir\all
 
 # Build rule for subdir invocation for target.
@@ -249,7 +249,7 @@ Tutorial\CMakeFiles\TUT4.dir\clean:
 Tutorial\CMakeFiles\TRACKBAR.dir\all:
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TRACKBAR.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TRACKBAR.dir\depend
 	$(MAKE) $(MAKESILENT) -f Tutorial\CMakeFiles\TRACKBAR.dir\build.make /nologo -$(MAKEFLAGS) Tutorial\CMakeFiles\TRACKBAR.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target TRACKBAR"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=14,15 "Built target TRACKBAR"
 .PHONY : Tutorial\CMakeFiles\TRACKBAR.dir\all
 
 # Build rule for subdir invocation for target.
@@ -353,12 +353,12 @@ Tutorial\CMakeFiles\HIST_Color.dir\clean:
 LAB\CMakeFiles\LAB1.dir\all:
 	$(MAKE) $(MAKESILENT) -f LAB\CMakeFiles\LAB1.dir\build.make /nologo -$(MAKEFLAGS) LAB\CMakeFiles\LAB1.dir\depend
 	$(MAKE) $(MAKESILENT) -f LAB\CMakeFiles\LAB1.dir\build.make /nologo -$(MAKEFLAGS) LAB\CMakeFiles\LAB1.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target LAB1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=11,12,13 "Built target LAB1"
 .PHONY : LAB\CMakeFiles\LAB1.dir\all
 
 # Build rule for subdir invocation for target.
 LAB\CMakeFiles\LAB1.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) LAB\CMakeFiles\LAB1.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles 0
 .PHONY : LAB\CMakeFiles\LAB1.dir\rule

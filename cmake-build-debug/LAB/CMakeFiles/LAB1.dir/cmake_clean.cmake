@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LAB1.dir/DLIP_LAB1_21900416_GyeonehalAn.cpp.obj"
   "CMakeFiles/LAB1.dir/DLIP_LAB1_21900416_GyeonehalAn.cpp.obj.d"
+  "CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.obj"
+  "CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.obj.d"
   "LAB1.exe"
   "LAB1.exe.manifest"
   "LAB1.lib"

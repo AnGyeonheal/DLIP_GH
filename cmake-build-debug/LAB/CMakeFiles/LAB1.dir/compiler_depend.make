@@ -4,5 +4,10 @@
 LAB\CMakeFiles\LAB1.dir\DLIP_LAB1_21900416_GyeonehalAn.cpp.obj: C:\Users\heal\source\repos\DLIP_GH\LAB\DLIP_LAB1_21900416_GyeonehalAn.cpp
 
 
+LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj: C:\Users\heal\source\repos\DLIP_GH\LAB\OpenCV_Setting.cpp
+
+
 
 C:\Users\heal\source\repos\DLIP_GH\LAB\DLIP_LAB1_21900416_GyeonehalAn.cpp:
+
+C:\Users\heal\source\repos\DLIP_GH\LAB\OpenCV_Setting.cpp:

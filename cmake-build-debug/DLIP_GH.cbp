@@ -541,6 +541,12 @@
 		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/DLIP_LAB1_21900416_GyeonehalAn.cpp">
 			<Option target="LAB1"/>
 		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/OpenCV_Setting.cpp">
+			<Option target="LAB1"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/OpenCV_Setting.h">
+			<Option target="LAB1"/>
+		</Unit>
 		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Filter_Image.cpp">
 			<Option target="Filter"/>
 		</Unit>

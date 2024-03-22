@@ -163,6 +163,36 @@ DLIP_LAB1_21900416_GyeonehalAn.cpp.s:
 	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
 .PHONY : DLIP_LAB1_21900416_GyeonehalAn.cpp.s
 
+OpenCV_Setting.obj: OpenCV_Setting.cpp.obj
+.PHONY : OpenCV_Setting.obj
+
+# target to build an object file
+OpenCV_Setting.cpp.obj:
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
+	$(MAKE) $(MAKESILENT) -f LAB\CMakeFiles\LAB1.dir\build.make /nologo -$(MAKEFLAGS) LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
+.PHONY : OpenCV_Setting.cpp.obj
+
+OpenCV_Setting.i: OpenCV_Setting.cpp.i
+.PHONY : OpenCV_Setting.i
+
+# target to preprocess a source file
+OpenCV_Setting.cpp.i:
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
+	$(MAKE) $(MAKESILENT) -f LAB\CMakeFiles\LAB1.dir\build.make /nologo -$(MAKEFLAGS) LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.i
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
+.PHONY : OpenCV_Setting.cpp.i
+
+OpenCV_Setting.s: OpenCV_Setting.cpp.s
+.PHONY : OpenCV_Setting.s
+
+# target to generate assembly for a file
+OpenCV_Setting.cpp.s:
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
+	$(MAKE) $(MAKESILENT) -f LAB\CMakeFiles\LAB1.dir\build.make /nologo -$(MAKEFLAGS) LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.s
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
+.PHONY : OpenCV_Setting.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -175,6 +205,9 @@ help:
 	@echo ... DLIP_LAB1_21900416_GyeonehalAn.obj
 	@echo ... DLIP_LAB1_21900416_GyeonehalAn.i
 	@echo ... DLIP_LAB1_21900416_GyeonehalAn.s
+	@echo ... OpenCV_Setting.obj
+	@echo ... OpenCV_Setting.i
+	@echo ... OpenCV_Setting.s
 .PHONY : help
 
 

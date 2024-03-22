@@ -84,14 +84,42 @@ LAB\CMakeFiles\LAB1.dir\DLIP_LAB1_21900416_GyeonehalAn.cpp.s: cmake_force
 <<
 	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
 
+LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj: LAB\CMakeFiles\LAB1.dir\flags.make
+LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj: C:\Users\heal\source\repos\DLIP_GH\LAB\OpenCV_Setting.cpp
+LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj: LAB\CMakeFiles\LAB1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LAB/CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.obj"
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj.d --working-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB --filter-prefix="참고: 포함 파일: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1437~1.328\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj /FdCMakeFiles\LAB1.dir\ /FS -c C:\Users\heal\source\repos\DLIP_GH\LAB\OpenCV_Setting.cpp
+<<
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
+
+LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.i"
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1437~1.328\bin\Hostx64\x64\cl.exe > CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\heal\source\repos\DLIP_GH\LAB\OpenCV_Setting.cpp
+<<
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
+
+LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.s"
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1437~1.328\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\LAB1.dir\OpenCV_Setting.cpp.s /c C:\Users\heal\source\repos\DLIP_GH\LAB\OpenCV_Setting.cpp
+<<
+	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug
+
 # Object files for target LAB1
 LAB1_OBJECTS = \
-"CMakeFiles\LAB1.dir\DLIP_LAB1_21900416_GyeonehalAn.cpp.obj"
+"CMakeFiles\LAB1.dir\DLIP_LAB1_21900416_GyeonehalAn.cpp.obj" \
+"CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj"
 
 # External object files for target LAB1
 LAB1_EXTERNAL_OBJECTS =
 
 LAB\LAB1.exe: LAB\CMakeFiles\LAB1.dir\DLIP_LAB1_21900416_GyeonehalAn.cpp.obj
+LAB\LAB1.exe: LAB\CMakeFiles\LAB1.dir\OpenCV_Setting.cpp.obj
 LAB\LAB1.exe: LAB\CMakeFiles\LAB1.dir\build.make
 LAB\LAB1.exe: C:\opencv\build\x64\vc16\lib\opencv_world490d.lib
 LAB\LAB1.exe: C:\opencv\build\x64\vc16\lib\opencv_world490d.lib
@@ -110,7 +138,7 @@ LAB\LAB1.exe: C:\opencv\build\x64\vc16\lib\opencv_world490d.lib
 LAB\LAB1.exe: C:\opencv\build\x64\vc16\lib\opencv_world490d.lib
 LAB\LAB1.exe: C:\opencv\build\x64\vc16\lib\opencv_world490d.lib
 LAB\LAB1.exe: LAB\CMakeFiles\LAB1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LAB1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LAB1.exe"
 	cd C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB
 	C:\Users\heal\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\LAB1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1437~1.328\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\LAB1.dir\objects1.rsp @<<
  /out:LAB1.exe /implib:LAB1.lib /pdb:C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB1.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console  C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib C:\opencv\build\x64\vc16\lib\opencv_world490d.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 

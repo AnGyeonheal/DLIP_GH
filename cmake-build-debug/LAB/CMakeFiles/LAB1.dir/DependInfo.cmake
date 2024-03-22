@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/heal/source/repos/DLIP_GH/LAB/DLIP_LAB1_21900416_GyeonehalAn.cpp" "LAB/CMakeFiles/LAB1.dir/DLIP_LAB1_21900416_GyeonehalAn.cpp.obj" "msvc" "LAB/CMakeFiles/LAB1.dir/DLIP_LAB1_21900416_GyeonehalAn.cpp.obj.d"
+  "C:/Users/heal/source/repos/DLIP_GH/LAB/OpenCV_Setting.cpp" "LAB/CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.obj" "msvc" "LAB/CMakeFiles/LAB1.dir/OpenCV_Setting.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

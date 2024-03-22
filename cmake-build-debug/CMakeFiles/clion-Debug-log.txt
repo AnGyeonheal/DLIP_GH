@@ -5,5 +5,5 @@ C:\Users\heal\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMA
 -- Found OpenCV 4.9.0 in C:/opencv/build/x64/vc16/lib
 -- You might need to add C:\opencv\build\x64\vc16\bin to your PATH to be able to run your applications.
 -- Configuring done (0.1s)
--- Generating done (0.1s)
+-- Generating done (0.2s)
 -- Build files have been written to: C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug
