@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/hilla/source/repos/DLIP_GH/Tutorial
+# Install script for directory: C:/Users/heal/source/repos/DLIP_GH/Tutorial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

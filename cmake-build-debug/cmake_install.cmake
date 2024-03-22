@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/hilla/source/repos/DLIP_GH
+# Install script for directory: C:/Users/heal/source/repos/DLIP_GH
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/hilla/source/repos/DLIP_GH/cmake-build-debug/Tutorial/cmake_install.cmake")
+  include("C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/hilla/source/repos/DLIP_GH/cmake-build-debug/LAB/cmake_install.cmake")
+  include("C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/hilla/source/repos/DLIP_GH/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
